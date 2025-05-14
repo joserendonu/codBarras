@@ -1,2 +1,1 @@
 # codBarras
-ya pitaaaa
